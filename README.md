@@ -94,3 +94,10 @@ Fungsi jump search dapat membantu meningkatkan kinerja pencarian pada array yang
 21.	Jika nilai wibi_index tidak sama dengan -1 (yaitu, nilai yang mengindikasikan bahwa target tidak ditemukan), program akan mencetak pesan yang menunjukkan bahwa "Wibi" ditemukan di indeks 3 pada kolom 1.
 22.	Jika nilai wibi_index sama dengan -1 (yaitu, nilai yang mengindikasikan bahwa target tidak ditemukan), program akan mencetak pesan yang menunjukkan bahwa "Wibi" tidak ditemukan di indeks 3 pada kolom 1.
 23.	Program kemudian berakhir.
+
+
+# OUTPUT
+![image](https://user-images.githubusercontent.com/126861865/224259200-bf95ffd1-8ccf-4af7-9f0f-da217cb3f6c2.png)
+
+
+
